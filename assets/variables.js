@@ -7,7 +7,7 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "I'm sorry for loving you.", author: "Pacarmuuu" },
+    { quote: "Ikan hiu makan tomat , love u so much😍.", author: "Pacarmuuu" },
     { quote: "I love you.", author: "Desy" },
     { quote: "Aku sayang kamu!", author: "Dessy" },
     { quote: "Semangat terus kerjanya♥", author: "Desy Fitriani!" },
